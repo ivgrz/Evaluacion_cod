@@ -10,6 +10,8 @@
 
 4.Colocarse en la carpeta en la que se quiere realizar la clonacion del repositorio
 
+5.Escribir en la consola git remote add origin y colocar el link de nuestro propio repositorio hacia donde se quiere realizar la clonacion
+
 
 
 
