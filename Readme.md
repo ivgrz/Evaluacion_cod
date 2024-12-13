@@ -8,6 +8,9 @@
 
 3.Abrir la consola y escribir git clone o- junto con el link copiado anteriormente
 
+4.Colocarse en la carpeta en la que se quiere realizar la clonacion del repositorio
+
+
 
 
 
