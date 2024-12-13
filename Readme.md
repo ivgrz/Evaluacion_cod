@@ -26,7 +26,7 @@ String [][]tablero = {
     {"B","","N","","B","","B",""}
 }
 
-![a](/.)
+![a](/imagenes/EvaluacionCOD.drawio(1).png)
 
 
 ¿Que funciones se podrian usar?
