@@ -32,10 +32,43 @@ String [][]tablero = {
 ¿Que funciones se podrian usar?
 1. Public static void Tablero(String [][]tablero) -> recorrer y mostrar el tablero
 2. Public static string contfichas(String [][]tablero, int b, int n) -> contar fichas por separado
-3. Public static string 
+3. Public static void 
+
+
+    /**
+    * Tablero de damas c
+    */
+  public class Funciones {
+        /**
+        * Declaracion de la matriz del tablero
+        * @param args
+        */
+      public static void main(String[] args) {
+      String [][]tablero = new String[8][8];
 
 
 
+    }
+
+    /**
+     * Recorre tablero y muestra la tabla
+     * @param tabla
+     */
+    public static void tablero(String[][]tabla){
+
+    }
+
+    /**
+     * Cuenta fichas por separado y cuales tiene mas
+      * @param tablero
+     * @param N
+     * @param b
+     * @return numero de fichas del que posee mas
+     */
+
+public static String contfichas(String [][]tablero, int N, int b){
+
+    }
 
 
 
