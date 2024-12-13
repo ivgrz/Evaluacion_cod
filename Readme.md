@@ -6,6 +6,9 @@
 
 2.Copiar el link de ese repositorio 
 
+3.Abrir la consola y escribir git clone o- junto con el link copiado anteriormente
+
+
 
 
 
