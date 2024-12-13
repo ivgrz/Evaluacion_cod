@@ -17,20 +17,24 @@
 Tablero: 
 
 String [][]tablero = {
+    
     {"","N","","N","","N","","N"}
-    {"N","","N","","N","","N",}
-    {"","B","","B","","B",}
-    {"","","","","","}
-    {}
-    {}
+    {"N","","N","","N","","N",""}
+    {"","B","","B","","B","","B"}
+    {"B","","","","N","","N",""}
+    {"","N","","B","","B","","B"}
+    {"B","","N","","B","","B",""}
 }
 
+![a](/.)
 
 
 ¿Que funciones se podrian usar?
 1. Public static void Tablero(String [][]tablero) -> recorrer y mostrar el tablero
 2. Public static string contfichas(String [][]tablero, int b, int n) -> contar fichas por separado
 3. Public static string 
+
+
 
 
 
