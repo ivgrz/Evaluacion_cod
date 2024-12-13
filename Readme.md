@@ -12,9 +12,25 @@
 
 5.Escribir en la consola git remote add origin y colocar el link de nuestro propio repositorio hacia donde se quiere realizar la clonacion
 
+6.Escribir  en la consola git remote -v para verificar los repositorios configurados y verificar que aparezca el nuestro
+
+Tablero: 
+
+String [][]tablero = {
+    {"","N","","N","","N","","N"}
+    {"N","","N","","N","","N",}
+    {"","B","","B","","B",}
+    {"","","","","","}
+    {}
+    {}
+}
 
 
 
+¿Que funciones se podrian usar?
+1. Public static void Tablero(String [][]tablero) -> recorrer y mostrar el tablero
+2. Public static string contfichas(String [][]tablero, int b, int n) -> contar fichas por separado
+3. Public static string 
 
 
 
